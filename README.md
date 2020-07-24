@@ -1,2 +1,2 @@
 # data-science-orion
-This file was created as an end of unti activity for the data science skill path on Codecademy
+This jupyter notebook using Python and Matplotlib was created as an end of unit activity for the data science skill path on Codecademy.
